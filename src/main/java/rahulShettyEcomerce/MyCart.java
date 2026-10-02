@@ -33,7 +33,7 @@ public class MyCart extends ReusableMethods{
 		return PaymentPage;
 	}
 	
-	
+	//for demo purpose
 	
 
 }
